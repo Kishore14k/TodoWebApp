@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "checked": false,
+      "task": "AI"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "task": "MongoDB"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "task": "Express.js"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "task": "Node.js"
+    }
+  ]
+}
